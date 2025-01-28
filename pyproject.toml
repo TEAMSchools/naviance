@@ -2,7 +2,7 @@
 name = "naviance"
 version = "0.1.0"
 description = ""
-authors = ["Charlie Bini <cbini87@gmail.com>"]
+authors = ["CB <foo@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
